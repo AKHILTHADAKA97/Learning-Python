@@ -1,0 +1,40 @@
+1.Create a Project Folder
+
+--mkdir my_project ( to create Project Folder)
+--cd my_project (cd = change directory)
+
+2.python -m venv venv 
+python → runs Python
+-m venv → tells Python to use the venv module (built-in tool)
+venv → name of the folder where the environment will be created
+
+
+3.Create Main Files 
+
+--main.py
+--requirements.txt
+│── README.md
+
+4.Write Your First Code
+--main.py
+
+def main():
+    print("Hello, Python Project!")
+
+
+
+
+5. Run:
+
+python main.py
+
+
+
+6.pip install flask — What is it?
+
+This command is used to install Flask, a Python web framework.
+
+🧠 Breakdown:
+pip → Python package manager (used to install libraries)
+install → command to install something
+flask → the package name
