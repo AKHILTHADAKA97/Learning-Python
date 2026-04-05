@@ -70,3 +70,21 @@ Build a strong Python foundation required for AI development.
 
 ---
 
+## ✍️ MODULE 3: Prompt Engineering Fundamentals
+
+### 📌 Topics Covered
+
+* System, User & Assistant Roles
+* Zero-shot Prompting
+* Few-shot Prompting
+* Chain-of-Thought Prompting
+* Prompt Structuring Basics
+* Prompt Reuse & Versioning
+* JSON Prompting for Structured Outputs
+
+### 🎯 Outcome
+
+Understand how to design effective and reusable prompts.
+
+---
+
