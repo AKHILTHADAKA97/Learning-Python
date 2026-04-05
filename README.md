@@ -28,3 +28,45 @@ Build a strong Python foundation required for AI development.
 
 ---
 
+## 🤖 MODULE 2: AI Models – Foundations & Types
+
+### 📌 Topics Covered
+
+* What is Artificial Intelligence?
+
+* Types of AI:
+
+  * Machine Learning (ML)
+  * Deep Learning (DL)
+  * Natural Language Processing (NLP)
+  * Computer Vision (CV)
+
+* Transformers Overview
+
+* Model Types:
+
+  * Pre-trained Models
+  * Fine-tuned Models
+  * Foundation Models
+
+* AI Use Cases Across Industries
+
+### 🧠 Prompt Concepts
+
+* Prompt Design Patterns
+* Prompt Tuning vs Instruction Tuning
+* Guardrails & Safety Constraints
+* Bias, Fairness & Ethical Risks
+* Controlling LLM Behavior
+* JSON Prompting for API Reliability
+
+### 🛠️ Project
+
+**Design a Safe Prompt Workflow**
+
+* Add constraints
+* Include fallback handling
+* Ensure safe outputs
+
+---
+
