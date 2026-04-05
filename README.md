@@ -127,3 +127,21 @@ Understand how to design effective and reusable prompts.
 
 ---
 
+## 📂 Suggested Folder Structure
+
+```
+AI-Roadmap/
+│
+├── module1-python/
+├── module2-ai-models/
+├── module3-prompt-basics/
+├── module4-advanced/
+│
+├── projects/
+│   ├── safe-prompt-workflow/
+│   └── llm-comparison/
+│
+└── README.md
+```
+* Add **project code templates**
+* Create a **learning UI dashboard (HTML/CSS/JS)**
