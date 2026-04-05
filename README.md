@@ -88,3 +88,42 @@ Understand how to design effective and reusable prompts.
 
 ---
 
+## 🧠 MODULE 4: Advanced Prompt Design, Safety & Ethics
+
+### 📌 Topics Covered
+
+* Anatomy of LLMs
+
+* Training vs Inference
+
+* Popular LLMs:
+
+  * GPT
+  * Claude
+  * LLaMA
+  * Mistral / Mixtral
+
+* Use Cases & Limitations
+
+* Bias & Hallucinations
+
+### 🛠️ Project
+
+**Compare Multiple LLMs on a Real-world Task**
+
+* Evaluate accuracy
+* Compare responses
+* Analyze bias & hallucinations
+
+---
+
+## 🧩 Skills You Will Gain
+
+* Python for AI development
+* Understanding of modern AI models
+* Prompt engineering techniques
+* Safe and ethical AI usage
+* Real-world AI project experience
+
+---
+
